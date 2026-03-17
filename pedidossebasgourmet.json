@@ -1,0 +1,15 @@
+[
+    {
+        "id": "202603171020",
+        "nombre": "Ejemplo Cliente",
+        "celular": "3001234567",
+        "tipo": "Menu del dia",
+        "detalle": "",
+        "cantidad": 2,
+        "total": 24000,
+        "fecha_pedido": "2026-03-17 10:20:00",
+        "fecha_entrega": "2026-03-17 13:00",
+        "notas": "Sin cebolla en la ensalada",
+        "estado": "🟡"
+    }
+]
